@@ -1,4 +1,4 @@
-# msa_machinelearnging_task 
+# LINEAR REGRESSION MODEL 
 # Making a Machine Learning Model to get a Geekbench 6 Score for Intel Raptor Lake Cpus
 
 ## Dataset
